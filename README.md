@@ -1,4 +1,9 @@
 ### Projeto: Gerador de README
+<hr>
+
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
 
 #### Estrutura do Projeto:
 ```
@@ -55,9 +60,7 @@ Um projeto para automatizar a criação de README.md para projetos do GitHub. O 
    - README principal do projeto.
 
 #### Setup e Uso:
-1. Execute `python cgmd.py init` para inicializar o projeto.
+1. Execute `cgmd init` para inicializar o projeto.
 2. Crie novos componentes com `cgmd create component <nome_do_componente>`.
 3. Defina o arquivo de template em `src/templates/template.txt`.
-4. Execute `python cgmd.py generate` para preencher o template e gerar o README.md final.
-
-Com essa estrutura, o projeto está organizado e pronto para ser desenvolvido. Você pode adicionar mais funcionalidades ou expandir conforme necessário.
+4. Execute `cgmd generate` para preencher o template e gerar o README.md final.
