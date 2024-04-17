@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow">
 </p>
 
 #### Estrutura do Projeto:
@@ -64,3 +64,7 @@ Um projeto para automatizar a criação de README.md para projetos do GitHub. O 
 2. Crie novos componentes com `cgmd create component <nome_do_componente>`.
 3. Defina o arquivo de template em `src/templates/template.txt`.
 4. Execute `cgmd generate` para preencher o template e gerar o README.md final.
+
+## Desenvolvedores
+
+[<img src="https://avatars.githubusercontent.com/Emerson-Vitor" width=115><br><sub>Emerson V P Silva</sub>](https://github.com/Emerson-Vitor)
