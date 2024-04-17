@@ -1,0 +1,16 @@
+
+{
+                
+    "logo": {
+        "import": "./src/components/",
+        "label": "Logo"
+    },
+    "status": {
+        "import": "./src/components/",
+        "label": "Status"
+    },
+    "funcionalidades": {
+        "import": "./src/components/",
+        "label": "Funcionalidades"
+    }
+}
