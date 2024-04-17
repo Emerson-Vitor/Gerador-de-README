@@ -1,11 +1,11 @@
-### Projeto: Gerador de README
-<hr>
+# Projeto: Gerador de README
+
 
 <p align="center">
    <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow">
 </p>
 
-#### Estrutura do Projeto:
+## Estrutura do Projeto:
 ```
 gerador_readme/
 │
@@ -21,10 +21,10 @@ gerador_readme/
 └── README.md
 ```
 
-#### Descrição:
+## Descrição:
 Um projeto para automatizar a criação de README.md para projetos do GitHub. O usuário pode definir modelos (templates) de README.md com componentes personalizados e preenchê-los com dados específicos.
 
-#### Funcionalidades:
+## Funcionalidades:
 1. **Definindo Componentes:**
    - O usuário pode criar novos componentes executando `cgmd create component <nome_do_componente>` no terminal. Isso cria um arquivo de componente na pasta `src/components` e atualiza o arquivo `pub_components.json`.
 
@@ -39,7 +39,7 @@ Um projeto para automatizar a criação de README.md para projetos do GitHub. O 
    - Com todas as informações coletadas, o script Python substitui os marcadores no template pelos dados fornecidos.
    - O script gera o arquivo README.md final na raiz do projeto.
 
-#### Scripts Python:
+## Scripts Python:
 1. **`cgmd.py`:**
    - Script principal para gerenciar a criação de componentes, preenchimento do template e geração do README.md.
 
@@ -52,14 +52,14 @@ Um projeto para automatizar a criação de README.md para projetos do GitHub. O 
 4. **`generator.py`:**
    - Módulo contendo funções para gerar o README.md final.
 
-#### Arquivos:
+## Arquivos:
 - **`pub_components.json`:**
    - Arquivo JSON que mantém o registro de todos os componentes disponíveis e seus caminhos de importação.
 
 - **`README.md`:**
    - README principal do projeto.
 
-#### Setup e Uso:
+## Setup e Uso:
 1. Execute `cgmd init` para inicializar o projeto.
 2. Crie novos componentes com `cgmd create component <nome_do_componente>`.
 3. Defina o arquivo de template em `src/templates/template.txt`.
