@@ -1,1 +1,2 @@
 * -linguist-detectable
+*.py linguist-language=Dart
