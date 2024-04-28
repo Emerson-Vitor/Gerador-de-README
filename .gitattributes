@@ -1,3 +1,2 @@
-* linguist-detectable=false
-*.dart linguist-language=Dart
-*.py linguist-language=Python
+* linguist-vendored
+*.py linguist-vendored=false
