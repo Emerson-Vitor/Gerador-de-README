@@ -1,5 +1,5 @@
 # Projeto: Gerador de README
-<iframe width="400" height="215" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://indify.co/widgets/live/countdown/p2OgzaK9xLU8cVq7ZQPo"> <iframe>
+<iframe src="https://indify.co/widgets/live/countdown/p2OgzaK9xLU8cVq7ZQPo" width="600" height="400" frameborder="0"></iframe>
 
 <p align="center">
    <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow">
