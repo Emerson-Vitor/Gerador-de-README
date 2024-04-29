@@ -1,5 +1,5 @@
 # Projeto: Gerador de README
-
+![exemplo](https://indify.co/widgets/live/countdown/p2OgzaK9xLU8cVq7ZQPo)
 
 <p align="center">
    <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow">
